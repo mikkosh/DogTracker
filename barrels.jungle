@@ -1,0 +1,7 @@
+# Do not hand edit this file. To make changes right click
+# on the project and select "Configure Monkey Barrels".
+
+AntAssetTracker = /Users/mkoh/git/AntAssetTracker-kklk/bin/AsstTrack.barrel
+base.AntAssetTracker.annotations = AntAssetTracker
+base.barrelPath = $(base.barrelPath);$(AntAssetTracker)
+

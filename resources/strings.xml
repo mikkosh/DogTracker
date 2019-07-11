@@ -1,0 +1,5 @@
+<strings>
+    <string id="AppName">Dog Tracker</string>
+    <string id="beaconUrlTitle">Url where to send the tracker data</string>
+    <string id="beaconUrlPrompt">Url</string>
+</strings>

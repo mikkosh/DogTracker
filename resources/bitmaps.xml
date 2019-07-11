@@ -1,0 +1,33 @@
+<drawables>
+    <bitmap id="LauncherIcon" filename="images/icon.png" />
+    <bitmap id="DogTreed" filename="images/icon_dog_treed_32.png">
+        <palette disableTransparency="false">
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="DogSitting" filename="images/icon_dog_sitting_32.png">
+        <palette disableTransparency="false">
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="DogMoving" filename="images/icon_dog_moving_32.png">
+        <palette disableTransparency="false">
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+    <bitmap id="DogUnknown" filename="images/icon_dog_unknown_32.png">
+        <palette disableTransparency="false">
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap>
+   	<bitmap id="DogPointed" filename="images/icon_dog_pointed_32.png">
+        <palette disableTransparency="false">
+            <color>000000</color>
+            <color>FFFFFF</color>
+        </palette>
+    </bitmap> 
+</drawables>

@@ -1,0 +1,10 @@
+<resources>
+	<properties>
+		<property id="beaconUrl" type="string"></property>
+	</properties>
+	<settings>
+		<setting propertyKey="@Properties.beaconUrl" title="@Strings.beaconUrlTitle" prompt="@Strings.beaconUrlPrompt">
+	        <settingConfig type="url" required="false" />
+	    </setting>
+	</settings>
+</resources>

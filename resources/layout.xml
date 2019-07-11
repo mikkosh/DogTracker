@@ -1,0 +1,13 @@
+<layout id="MainLayout">
+	<label id="index" x="132" y="10" text="" font="Graphics.FONT_XTINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="status" x="132" y="30" text="" font="Graphics.FONT_XTINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="distance" x="132" y="50" text="" font="Graphics.FONT_TINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="bearing" x="132" y="70" text="" font="Graphics.FONT_TINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="latitude" x="132" y="90" text="" font="Graphics.FONT_TINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="longitude" x="132" y="110" text="" font="Graphics.FONT_TINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="color" x="132" y="130" text="" font="Graphics.FONT_TINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="type" x="132" y="150" text="" font="Graphics.FONT_TINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="name" x="132" y="170" text="" font="Graphics.FONT_TINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="dstat" x="132" y="190" text="" font="Graphics.FONT_TINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="dbg" x="132" y="210" text="" font="Graphics.FONT_TINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+</layout>
