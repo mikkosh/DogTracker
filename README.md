@@ -7,7 +7,7 @@ It enables real time sharing of dog (or other tracked asset) location data. It's
 ## What it does
 The application can be installed on a Garmin Connect IQ compatible device that can connect to a handheld dog tracker. I personally use Garmin Astro GPS tracker and a Garmin Fenix 5X plus watch.
 
-Watch application receives the asset (dog) location data via Ant+ messages from Astro. It then displays the data (there's an asset list view and a map view) and if the application is configured (a beacon URL is set in Garmin Connect App settings) it will send the asset locations to the configured URL.
+Watch application receives the asset (dog) location data via Ant+ messages from Astro. It then displays the data (there's an asset list view and a map view) and if the application is configured (a beacon URL is set in Garmin Connect App settings) it will send the asset locations to the configured URL in a HTTP POST message. The sample beacon saves the location data in a JSON file and and when the script is accessed from the web, displays a map where the asset locations can be seen.
 
 ## Dependencies
 - This app uses the AntAssetTracker monkey barrel that can be found here (https://github.com/mikkosh/AntAssetTracker). The barrel location must be configured in the Eclipse settings before compiling the app.
